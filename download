@@ -1,0 +1,19 @@
+# OS Generated Files
+.DS_Store
+.DS_Store?
+
+# Original uncompressed textures backup
+originals_backup/
+
+# OBJ file no longer needed (sphere generated in code)
+Earth.obj
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python Server Caches
+__pycache__/
+*.py[cod]
+*$py.class
